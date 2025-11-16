@@ -6,28 +6,28 @@ const products = [
     name: "Tegridy OG Weed",
     price: "$45 / 8g",
     category: "weed",
-    image: "/assets/weed1.jpg",
+    image: "src/assets/og.jpg",
   },
   {
     id: 2,
     name: "Sativa Sunrise Weed",
     price: "$40 / 8g",
     category: "weed",
-    image: "/assets/weed2.jpg",
+    image: "src/assets/sativa-sunrise.jpg",
   },
   {
     id: 3,
     name: "Rolling Papers Pack",
     price: "$8",
     category: "accessory",
-    image: "/assets/rolling_papers.jpg",
+    image: "src/assets/rolling-papers.jpg",
   },
   {
     id: 4,
     name: "Tegridy Grinder",
     price: "$25",
     category: "accessory",
-    image: "/assets/grinder.jpg",
+    image: "src/assets/grinder.jpeg",
   },
 ];
 
