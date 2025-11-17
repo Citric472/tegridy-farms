@@ -1,4 +1,4 @@
-# Tegridy Farms (Work-in-Progress)
+# Tegridy Farms 
 
 **Tegridy Farms** is a cannabis-themed e-commerce website built with **React (JSX)**.  
 This is a work-in-progress project showcasing my frontend and full-stack skills using React, Supabase, and modern web development practices.  
@@ -53,3 +53,4 @@ Open your browser and go to:
 arduino
 Copy code
 http://localhost:3000
+
