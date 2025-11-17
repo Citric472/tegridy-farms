@@ -15,8 +15,7 @@ This is a work-in-progress project showcasing my frontend and full-stack skills 
 
 ---
 
-## ⚠️ Work in Progress
-- Product images are pending upload  
+## ⚠️ Work in Progress  
 - Checkout/payment functionality is not implemented yet  
 - Additional pages (About, Contact) are not yet complete  
 
@@ -53,4 +52,5 @@ Open your browser and go to:
 arduino
 Copy code
 http://localhost:3000
+
 
