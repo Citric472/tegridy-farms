@@ -11,7 +11,7 @@ This is a work-in-progress project showcasing my frontend and full-stack skills 
 - User authentication (signup/login) integrated with Supabase  
 - Responsive design for desktop and mobile screens  
 - Navigation menu and routing with React Router  
-- Some pages styled using CSS modules / Tailwind CSS  
+- Some pages styled using CSS modules / Tailwind CSS 
 
 ---
 
